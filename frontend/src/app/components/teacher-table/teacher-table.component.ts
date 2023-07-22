@@ -73,6 +73,4 @@ export class TeacherTableComponent implements OnInit {
       this.teacherData = foundItems;
     }
   }
-
-  
 }
